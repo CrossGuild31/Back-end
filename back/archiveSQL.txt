@@ -1,9 +1,0 @@
-    CREATE TABLE Clientes (
-    cliente_id int,
-    Nome varchar(255),
-    Endereco varchar(255),
-    Gostos varchar(255)
-    );
-
-    SELECT * 
-    FROM Clientes
