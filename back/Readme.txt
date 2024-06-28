@@ -13,10 +13,6 @@ pip install -r requirements.txt
  Após a instalação do requirements.txt e a criação do ambiente virtual, 
 execute a API, no diretório raiz, com:
 
-(env)$ flask run --host 0.0.0.0 --port 5000 --reload
-
-ou
-
 (env)$ python app.py
 
 Para verificar a documentação no swagger basta entrar:
